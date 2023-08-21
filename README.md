@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![tryhackme stats](https://raw.githubusercontent.com/IlemLembo/IlemLembo/master/assets/background.jpg)
 # Hey there, I'm Ilem LEMBO! 👋
 
 Welcome to my GitHub corner. I'm a dedicated student in System Administration with a lively curiosity for all things Cybersecurity, Programming, Django, and React.
@@ -46,7 +47,3 @@ Welcome to my GitHub corner. I'm a dedicated student in System Administration wi
 
 🌐 Explore my [Portfolio Website](https://ilemlembo.me) to learn more about my endeavors. \
 🐦 Catch my thoughts on [Twitter](https://twitter.com/yourusername), where I share tech and tidbits. \
-
-<script src="https://tryhackme.com/badge/1181996"></script>
-
-
