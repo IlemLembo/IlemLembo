@@ -47,3 +47,6 @@ Welcome to my GitHub corner. I'm a dedicated student in System Administration wi
 
 🌐 Explore my [Portfolio Website](https://ilemlembo.me) to learn more about my endeavors. \
 🐦 Catch my thoughts on [Twitter](https://twitter.com/yourusername), where I share tech and tidbits. \
+
+
+![tryhackme stats](https://raw.githubusercontent.com/IlemLembo/IlemLembo/master/assets/EDEM.png)
