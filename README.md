@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![tryhackme stats](https://raw.githubusercontent.com/IlemLembo/IlemLembo/master/assets/background.jpg)
 # Hey there, I'm Ilem LEMBO! 👋
 
+![tryhackme stats](https://raw.githubusercontent.com/IlemLembo/IlemLembo/master/assets/EDEM.png)
 Welcome to my GitHub corner. I'm a dedicated student in System Administration with a lively curiosity for all things Cybersecurity, Programming, Django, and React.
 
 ## About Me
@@ -49,4 +50,4 @@ Welcome to my GitHub corner. I'm a dedicated student in System Administration wi
 🐦 Catch my thoughts on [Twitter](https://twitter.com/yourusername), where I share tech and tidbits. \
 
 
-![tryhackme stats](https://raw.githubusercontent.com/IlemLembo/IlemLembo/master/assets/EDEM.png)
+
