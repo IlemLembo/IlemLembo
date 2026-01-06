@@ -1,53 +1,50 @@
-### Hi there 👋
+# À propos de moi / About Me
 
-<!--
-**IlemLembo/IlemLembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bonjour, je suis **Ilem Lembo** !  
+💻 Passionné par le **DevSecOps**, le **développement d'applications** (principalement avec **Django** et **Next.js**) ainsi que la **cybersécurité** et les **réseaux**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![tryhackme stats](https://raw.githubusercontent.com/IlemLembo/IlemLembo/master/assets/background.jpg)
-# Hey there, I'm Ilem LEMBO! 👋
+👋 Hi, I am **Ilem Lembo**!  
+💻 I am passionate about **DevSecOps**, **application development** (mainly with **Django** and **Next.js**), as well as **cybersecurity** and **networking**.  
 
-![tryhackme stats](https://raw.githubusercontent.com/IlemLembo/IlemLembo/master/assets/EDEM.png)
-Welcome to my GitHub corner. I'm a dedicated student in System Administration with a lively curiosity for all things Cybersecurity, Programming, Django, and React.
+---
 
-## About Me
+## Mon parcours (FR)
+🎓 J'ai une formation solide en **réseaux** et **cybersécurité**, mais ma créativité m'a guidé vers le **développement d'applications web**. Naturellement, j'ai fusionné ces deux univers en appliquant mes compétences en cybersécurité à mes projets de développement et à des process métier.
 
-👨‍💻 On a journey to become a Cybersecurity Enthusiast \
-🌐 Exploring the dynamic world of System Administration \
-💡 Forever in learning mode, embracing new challenges \
-🎓 Proud student at [Ipnet Institute Of Technology]
+---
 
-## My Fascinations
+## My Journey (EN)
+🎓 I have a strong background in **networking** and **cybersecurity**, but my creativity guided me towards **web application development**. Naturally, I blended these two universes by applying my cybersecurity skills to my development projects and business processes.
 
-🔐 Cybersecurity: Unraveling the art of ethical hacking, pen testing, and digital fortification. \
-💻 System Administration: Orchestrating IT infrastructures for seamless operations. \
-🖥️ Programming: Crafting elegant code to tackle real-world puzzles. \
-🎮 Django & React: Building web experiences that merge my passion for backend and frontend development.
+---
 
-## My Adventure So Far
+## Ce que je fais (FR)
+🚀 **Automatisation et Pipelines CI/CD** : J'implémente des workflows efficaces et sécurisés pour minimiser les risques tout en accélérant les cycles de développement.  
+🔏 **Sécurisation des applications** : Mes connaissances en sécurité me permettent d'intégrer des pratiques de **DevSecOps** tout au long du cycle de vie du développement logiciel.  
+🌐 **Développement** : Je crée des applications robustes et performantes avec **Django** et **Next.js**.  
+🛠️ **Technologies utilisées** :  
+- Langages : Python, JavaScript, Bash, Powershell, C/C++  
+- Outils : Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Datadog, Grafana, New Relic, Sentry, etc.  
+- Frameworks et bibliothèques : Django, Next.js, React.js  
 
-📚 I'm currently diving into the realm of System Administration while sprinkling my path with Cybersecurity magic. \
-🔍 Exploring a plethora of cybersecurity techniques, tools, and awe-inspiring hacks. \
-💻 When not uncovering security exploits, you'll find me coding with Django and React to bring innovative ideas to life.
+---
 
-## Let's Connect
+## What I Do (EN)
+🚀 **Automation and CI/CD Pipelines**: I implement efficient and secure workflows to minimize risks while accelerating development cycles.  
+🔏 **Application Security**: My security expertise allows me to integrate **DevSecOps** practices throughout the software development lifecycle.  
+🌐 **Development**: I build robust and high-performance applications with **Django** and **Next.js**.  
+🛠️ **Technologies I use**:  
+- Languages: Python, JavaScript, Bash, Powershell, C/C++  
+- Tools: Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Datadog, Grafana, New Relic, Sentry, etc.  
+- Frameworks and Libraries: Django, Next.js, React.js  
 
-📬 If you're as enthusiastic about this digital world as I am, let's connect on [LinkedIn](https://www.linkedin.com/in/ilemjuniorlembo). The learning journey is more fun together!
+---
 
-## Find Me Around
+## Contactez-moi / Contact Me
+🌍 **Portfolio :** [ilemlembo.me](https://ilemlembo.me/)  
+💼 **LinkedIn :** [linkedin.com/in/ilemjuniorlembo](https://www.linkedin.com/in/ilemjuniorlembo)  
 
-🌐 Explore my [Portfolio Website](https://ilemlembo.me) to learn more about my endeavors. \
-🐦 Catch my thoughts on [Twitter](https://twitter.com/yourusername), where I share tech and tidbits. \
-
-
-
+📫 **Reach out to me:**  
+Feel free to contact me for collaborations, projects, or just to say hello! 😄
